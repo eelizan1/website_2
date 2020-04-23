@@ -104,10 +104,10 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/eelizan1"
+          href={`mailto:eelizanjr@outlook.com`}
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Enrico Elizan</div>
+          <div>Say Hello -> eelizanjr@outlook.com</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
