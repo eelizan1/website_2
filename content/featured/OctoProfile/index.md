@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'A Look at COVID-19'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/eelizan1/COVID-Tracker'
+external: 'https://check-covid19.netlify.app/'
 tech:
-  - Next.js
+  - React.js
   - Chart.js
-  - GitHub API
+  - COVID-19 API
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+A current look at the current COVID-19 statistics. View at a global level or at a country level.
