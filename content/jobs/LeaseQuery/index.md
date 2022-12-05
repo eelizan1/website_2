@@ -3,7 +3,7 @@ date: '2019-05'
 title: 'Software Engineer'
 company: 'LeaseQuery'
 location: 'Atlanta, GA'
-range: 'May 2019 - Present'
+range: 'May 2019 - July 2020'
 url: 'https://leasequery.com/'
 ---
 
